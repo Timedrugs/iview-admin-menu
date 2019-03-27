@@ -9,9 +9,14 @@ git clone `项目地址`
 
 // install dependencies
 npm install
-不能用
+##报错了？不要紧
+```
+yran --version
+```
+如果没版本信息，百度装yran吧，然后运行
+```
 yran install
-装yran（自行百度）
+```
 
 // develop
 npm run dev
