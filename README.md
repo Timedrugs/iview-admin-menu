@@ -14,11 +14,11 @@ git clone `项目地址`
 npm install
 ##报错了？不要紧
 ```
-yran --version
+yarn --version
 ```
 如果没版本信息，百度装yran吧，然后运行
 ```
-yran install
+yarn install
 ```
 
 // develop
